@@ -1,11 +1,9 @@
 # Содержание
 требуемые обновления autogen:
 
-[1. Autogen-conveyer](#Autogen_conveyer)
-
-[2. класс агентов ClI_Agent](#ClI_Agent)
-
-[2.1 Два варианта реализаци класса CLI_Agent](#ClI_Agent_2)
+1. [Autogen-conveyer](#Autogen_conveyer)
+2. [класс агентов ClI_Agent](#ClI_Agent)
+3. [Два варианта реализаци класса CLI_Agent](#ClI_Agent_2)
 
 ## Autogen-conveyer и его отделы:
 <a name="Autogen_conveyer"></a> 
