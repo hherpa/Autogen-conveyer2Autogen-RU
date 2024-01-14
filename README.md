@@ -60,7 +60,8 @@ Conveyer2Autogen - позволяет пользователю получить 
 ![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/6d83f249-7e80-4597-8788-a2cee91573d7) ![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/9590f64e-1054-42cb-964b-ad41683be8b1)
 
 ### 2. Выбор класса для каждого агента в списке
-![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/8f0ebafa-3501-4f3e-a9b3-cee6082dcbc6)
+![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/4a92c91b-04a2-41c6-87e2-8ccf240ac642)
+
 
 1. разбор Pipeline по частям
 2. Этот pipeline не точен так как должен быть больше как минимум в два раза....правило дифференцирования: один агент одна функция
