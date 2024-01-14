@@ -9,6 +9,7 @@
 2. варианты реализации (обработчик отдельно и обработчик в самом агенте)
 3. pipeline1 & pipeline2
 ![9](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/af71986e-b2ce-4c0f-a3af-0566d2030ffe)
+![10](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/e641d7ba-843d-46f6-8782-eb93ef2342d4)
 
 # Conveyer2Autogen
 Conveyer2Autogen - позволяет пользователю получить целый групповой чат autogen с правильно прописанными и протестированными промтами, интегрированными утилитами в агентов, а также function call. Также Conveyer2Autogen из-за своей простоты подхода "prompt --> answer и ничего лишнего" имеет свой TUI.
