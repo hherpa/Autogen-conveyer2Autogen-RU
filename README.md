@@ -12,7 +12,8 @@
 # Conveyer2Autogen
 Conveyer2Autogen - позволяет пользователю получить целый групповой чат autogen с правильно прописанными и протестированными промтами, интегрированными утилитами в агентов, а также function call. Также Conveyer2Autogen из-за своей простоты подхода "prompt --> answer и ничего лишнего" имеет свой TUI.
 
-![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/9c26f7bb-7207-495e-9f11-5e87351b237e)
+![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/0f5a3cde-d897-404b-a81d-55dab1fd9709)
+
 
 
 
