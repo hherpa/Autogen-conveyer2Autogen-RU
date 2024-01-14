@@ -1,7 +1,10 @@
 # Содержание
 требуемые обновления autogen:
+
 [1. Autogen-conveyer](#Autogen_conveyer)
+
 [2. класс агентов ClI_Agent](#ClI_Agent)
+
 ## Autogen-conveyer и его отделы:
 <a name="Autogen_conveyer"></a> 
 1. Что это и зачем это нужно? (* Autogen-conveyer - это новый подход к....)
