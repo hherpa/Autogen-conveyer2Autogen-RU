@@ -57,7 +57,7 @@ Conveyer2Autogen - позволяет пользователю получить 
 
 * **Пример реализации в TUI:**
 
-![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/43fc81f2-88cb-4a73-bb7a-b3bd9485505b)
+![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/1dad9b1f-e6fa-47c8-bdea-4ec45387055c)
 
 ### 2. Выбор класса для каждого агента в списке
 ![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/8f0ebafa-3501-4f3e-a9b3-cee6082dcbc6)
