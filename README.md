@@ -56,8 +56,8 @@ Conveyer2Autogen - позволяет пользователю получить 
 Здесь всё интуитивно понятно на входе промт пользователя, а уже на выходе список ролей. Здесь как раз таки видно как примерно будут встраиваться Regulatory Agent (класса CLI_Agent) и Motivator в групповые чаты autogen.
 
 * **Пример реализации в TUI:**
-
-![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/1dad9b1f-e6fa-47c8-bdea-4ec45387055c)
+  
+![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/6d83f249-7e80-4597-8788-a2cee91573d7) ![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/9590f64e-1054-42cb-964b-ad41683be8b1)
 
 ### 2. Выбор класса для каждого агента в списке
 ![image](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/8f0ebafa-3501-4f3e-a9b3-cee6082dcbc6)
