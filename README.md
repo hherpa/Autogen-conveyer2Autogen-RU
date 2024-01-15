@@ -52,7 +52,8 @@ Conveyer2Autogen - позволяет пользователю получить 
 ## **Conveyer2Autogen pipeline**
 
 <details>
-<summary> <i>  нажмите сюда для просмотра </i> </summary>
+<summary> <i>  нажмите сюда для просмотра пайплана полностью
+</i> </summary>
   
 ![ALL](https://github.com/hherpa/Conveyer2Autogen-RU/assets/146547175/2e1524cf-6a9d-4030-843f-f07a65990e1f)
 
